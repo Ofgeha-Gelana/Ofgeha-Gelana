@@ -3,7 +3,7 @@
 ![MasterHead](https://camo.githubusercontent.com/37a4da575381e6eb7f937878b48ae504dbcd2ea0e8762cce1ff4936c9f8301dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966)
 
 <h1 align="center">Hi 👋, I'm Ofgeha Gelana</h1>
-<h3 align="center">A passionate Data scientist and AI Engineer developer</h3>
+<h3 align="center">A passionate Data scientist and AI Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
