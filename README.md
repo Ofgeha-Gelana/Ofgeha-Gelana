@@ -35,6 +35,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofgeha-gelana&show_icons=true&locale=en&layout=compact" alt="ofgeha-gelana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofgeha-gelana&show_icons=true&locale=en" alt="ofgeha-gelana" /></p>
+
+<!-- GitHub Stats -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ofgeha-gelana&show_icons=true&count_private=true&hide=prs&locale=en" alt="ofgeha-gelana" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofgeha-gelana&" alt="ofgeha-gelana" /></p>
+
+
+
+
