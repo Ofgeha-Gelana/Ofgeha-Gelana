@@ -37,7 +37,6 @@
 
 
 <!-- GitHub Stats -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ofgeha-gelana&show_icons=true&count_private=true&hide=prs&locale=en" alt="ofgeha-gelana" /></p>
 
 
 
