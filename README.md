@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ofgehagelana2019@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ofgeha-gelana&show_icons=true&count_private=true&hide=prs&locale=en" alt="ofgeha-gelana" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofgeha-gelana&" alt="ofgeha-gelana" /></p>
 
 
 
