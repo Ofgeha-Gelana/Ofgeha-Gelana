@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://ofgeha.vercel.app/](https://ofgeha.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ofgeha.vercel.app/)
 
 - 💬 Ask me about **Data Science and Machine Learning techniques, AI model development, Data analysis with Python**
 
