@@ -37,7 +37,6 @@
 
 
 <!-- GitHub Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamibrenda&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
