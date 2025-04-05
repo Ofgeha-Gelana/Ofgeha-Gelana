@@ -17,8 +17,8 @@ Currently, I’m working on **RejuveBio** and **GWAS (Genome-Wide Association St
 ---
 
 ## 🌟 What I’m Working On
-- **[RejuveBio]**: Developing AI-driven tools for bioinformatics research.
-- **[GWAS]**: Creating solutions for Genome-Wide Association Studies.
+- **RejuveBio**: Developing AI-driven tools for bioinformatics research.
+- **GWAS**: Creating solutions for Genome-Wide Association Studies.
 - Writing about AI and tech on [Medium](https://medium.com/@ofgehagelana2019).
 
 Check out my repositories below to see more! ⬇️
